@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**comingfull2pirad/comingfull2pirad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on analyzing Consumer Financial Protection Bureau digital finance complaints to identify high-intent churn signals.
 - 🌱 I’m currently actively applying and expanding skills in data science, machine learning, and LLMs through hands-on projects and continuous self-study.
 - 👯 I’m looking to collaborate on data science and ML initiatives, particularly those involving sports analytics.

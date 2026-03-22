@@ -27,7 +27,8 @@ Explored a large dataset of consumer financial complaints submitted to the Consu
 
 ---
 
-### 💘 [Compatibility Predictor — Lovebug Dating App] (https://github.com/comingfull2pirad/CompatibilityPredictor_LovebugDating_app) 
+### 💘 [Compatibility Predictor — Lovebug Dating App](https://github.com/comingfull2pirad/CompatibilityPredictor_LovebugDating_app)
+[Compatibility Predictor — Lovebug Dating App] (https://github.com/comingfull2pirad/CompatibilityPredictor_LovebugDating_app) 
 - **Repo 1**-Stand-alone ML model not incoporated into the backend: https://github.com/comingfull2pirad/CompatibilityPredictor_LovebugDating_app;
 ### 💘 [Compatibility Predictor — Lovebug Dating App] (https://github.com/comingfull2pirad/CompatibilityPredictor_LovebugDating_app_Full_ML_backend_with_Flask_API)  
 - **Repo 2**-Full ML backend with Flask API with interactive web UI: https://github.com/comingfull2pirad/CompatibilityPredictor_LovebugDating_app_Full_ML_backend_with_Flask_API)

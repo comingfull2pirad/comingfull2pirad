@@ -28,10 +28,9 @@ Explored a large dataset of consumer financial complaints submitted to the Consu
 ---
 
 ### 💘 [Compatibility Predictor — Lovebug Dating App](https://github.com/comingfull2pirad/CompatibilityPredictor_LovebugDating_app)
-[Compatibility Predictor — Lovebug Dating App] (https://github.com/comingfull2pirad/CompatibilityPredictor_LovebugDating_app) 
-- **Repo 1**-Stand-alone ML model not incoporated into the backend: https://github.com/comingfull2pirad/CompatibilityPredictor_LovebugDating_app;
-### 💘 [Compatibility Predictor — Lovebug Dating App] (https://github.com/comingfull2pirad/CompatibilityPredictor_LovebugDating_app_Full_ML_backend_with_Flask_API)  
-- **Repo 2**-Full ML backend with Flask API with interactive web UI: https://github.com/comingfull2pirad/CompatibilityPredictor_LovebugDating_app_Full_ML_backend_with_Flask_API)
+- **Repo 1**-Stand-alone ML model not incoporated into the backend
+### 💘 ### 💘 [Compatibility Predictor — Lovebug Dating App](https://github.com/comingfull2pirad/CompatibilityPredictor_LovebugDating_app_Full_ML_backend_with_Flask_API)  
+- **Repo 2**-Full ML backend with Flask API with interactive web UI
   
 Analyzed personality and demographic traits to predict romantic compatibility between user pairs, helping a dating app understand what drives successful matches. Engineered 17 relational features (personality deltas, match flags, composite scores) from 100K pairs, trained a classification pipeline (MinMaxScaler → PCA → Random Forest), and deployed the model as an interactive Flask web application where users enter their profile and receive compatibility
   predictions scored against 40,000+ partner profiles in real time.s.
